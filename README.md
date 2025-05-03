@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sengokudaikon-opendeepsearch-mcp-badge.png)](https://mseep.ai/app/sengokudaikon-opendeepsearch-mcp)
+
 # OpenDeepSearch MCP Server
 
 This is a Model Context Protocol (MCP) server for OpenDeepSearch that allows LLM applications to interact with OpenDeepSearch's search capabilities.
